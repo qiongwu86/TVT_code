@@ -1,0 +1,1 @@
+store the simulation results of averaging the results obtained by the eight simulation tests
